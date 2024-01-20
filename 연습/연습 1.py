@@ -1,0 +1,2 @@
+str = 'korea'
+print(str)
